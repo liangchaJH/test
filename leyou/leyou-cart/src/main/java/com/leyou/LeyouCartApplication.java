@@ -12,6 +12,4 @@ public class LeyouCartApplication {
     public static void main(String[] args) {
         SpringApplication.run(LeyouCartApplication.class);
     }
-
-    
 }
